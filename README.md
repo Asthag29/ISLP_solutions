@@ -1,1 +1,1 @@
-# ISLP_chapter1
+# ISLP_solution_and_labwork
